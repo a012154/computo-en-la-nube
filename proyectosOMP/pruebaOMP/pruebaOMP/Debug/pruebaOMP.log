@@ -1,0 +1,4 @@
+﻿  pruebaOMP.cpp
+C:\Users\m1000\Documents\itesm\3er_trimestre\Cloud Computing\proyectosOMP\pruebaOMP\pruebaOMP\pruebaOMP.cpp(24,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\m1000\Documents\itesm\3er_trimestre\Cloud Computing\proyectosOMP\pruebaOMP\pruebaOMP\pruebaOMP.cpp(25,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  pruebaOMP.vcxproj -> C:\Users\m1000\Documents\itesm\3er_trimestre\Cloud Computing\proyectosOMP\pruebaOMP\Debug\pruebaOMP.exe
